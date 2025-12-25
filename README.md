@@ -20,7 +20,7 @@ Customize the portfolio with your own links. Go to `src/App.jsx` and update the 
 
 ```javascript
 const siteProps = {
-  name: "Alexandrie Grenier",
+  name: "Radovan Grenier",
   title: "Web Designer & Content Creator",
   email: "alex@example.com",
   gitHub: "microsoft",
